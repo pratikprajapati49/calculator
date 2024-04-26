@@ -10,6 +10,6 @@ Error handling for invalid inputs or division by zero
 Clear button to reset the calculator state
 <br>
 <h3>Technologies Used:</h3><br>
-HTML5
-CSS3
-JavaScript 
+HTML5<br>
+CSS3<br>
+JavaScript <br>
